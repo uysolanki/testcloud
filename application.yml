@@ -1,4 +1,4 @@
 my:
- greeting: Welcome to SpringBoot Cloud 
+ greeting: Welcome to SpringBoot Cloud Updated 
  list:
-   fruits: apple,banana,mango,papapa,Strawberry
+   fruits: apple,banana,mango,papapa,Strawberry,PineApple
