@@ -1,4 +1,4 @@
 my:
  greeting: Welcome to SpringBoot Cloud 
  list:
-   fruits: apple,banana,mango,papapa
+   fruits: apple,banana,mango,papapa,Strawberry
